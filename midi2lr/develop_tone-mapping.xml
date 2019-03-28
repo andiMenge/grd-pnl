@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
-  <setting channel="1" note="7" command_string="ShoVwdevelop_loupe"/>
-  <setting channel="1" note="8" command_string="ShoVwdevelop_before"/>
-  <setting channel="1" controller="7" command_string="SplitToningHighlightHue"/>
-  <setting channel="1" note="16" command_string="Next"/>
-  <setting channel="1" controller="8" command_string="SplitToningHighlightSaturation"/>
+  <setting channel="1" note="3" command_string="AdjustmentBrush"/>
+  <setting channel="1" note="2" command_string="RadialFilter"/>
+  <setting channel="1" note="1" command_string="GraduatedFilter"/>
+  <setting channel="1" controller="17" command_string="Exposure"/>
+  <setting channel="1" note="9" command_string="Reject"/>
+  <setting channel="1" controller="12" command_string="Temperature"/>
+  <setting channel="1" controller="9" command_string="Blacks"/>
+  <setting channel="1" controller="16" command_string="SplitToningShadowSaturation"/>
+  <setting channel="1" controller="2" command_string="Highlights"/>
+  <setting channel="1" note="10" command_string="RemoveFlag"/>
+  <setting channel="1" controller="1" command_string="Whites"/>
+  <setting channel="1" controller="10" command_string="Shadows"/>
+  <setting channel="1" controller="3" command_string="Contrast"/>
+  <setting channel="1" controller="11" command_string="Saturation"/>
+  <setting channel="1" controller="4" command_string="Clarity"/>
+  <setting channel="1" controller="5" command_string="Tint"/>
+  <setting channel="1" controller="13" command_string="Sharpness"/>
+  <setting channel="1" controller="14" command_string="LuminanceSmoothing"/>
+  <setting channel="1" note="15" command_string="Prev"/>
+  <setting channel="1" controller="6" command_string="GrainAmount"/>
   <setting channel="1" note="24" command_string="Unmapped"/>
   <setting channel="1" controller="15" command_string="SplitToningShadowHue"/>
-  <setting channel="1" controller="6" command_string="GrainAmount"/>
-  <setting channel="1" note="15" command_string="Prev"/>
-  <setting channel="1" controller="14" command_string="LuminanceSmoothing"/>
-  <setting channel="1" controller="13" command_string="Sharpness"/>
-  <setting channel="1" controller="5" command_string="Tint"/>
-  <setting channel="1" controller="4" command_string="Clarity"/>
-  <setting channel="1" controller="11" command_string="Saturation"/>
-  <setting channel="1" controller="3" command_string="Contrast"/>
-  <setting channel="1" controller="10" command_string="Shadows"/>
-  <setting channel="1" controller="1" command_string="Whites"/>
-  <setting channel="1" note="10" command_string="RemoveFlag"/>
-  <setting channel="1" controller="2" command_string="Highlights"/>
-  <setting channel="1" controller="16" command_string="SplitToningShadowSaturation"/>
-  <setting channel="1" controller="9" command_string="Blacks"/>
-  <setting channel="1" controller="12" command_string="Temperature"/>
-  <setting channel="1" note="9" command_string="Reject"/>
-  <setting channel="1" controller="17" command_string="Exposure"/>
+  <setting channel="1" controller="8" command_string="SplitToningHighlightSaturation"/>
+  <setting channel="1" note="16" command_string="Next"/>
+  <setting channel="1" controller="7" command_string="SplitToningHighlightHue"/>
+  <setting channel="1" note="8" command_string="ShoVwdevelop_before"/>
+  <setting channel="1" note="7" command_string="ShoVwdevelop_loupe"/>
 </settings>
