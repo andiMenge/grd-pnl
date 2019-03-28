@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
+  <setting channel="1" note="6" command_string="ToggleZoomOffOn"/>
   <setting channel="1" note="3" command_string="AdjustmentBrush"/>
   <setting channel="1" note="2" command_string="RadialFilter"/>
   <setting channel="1" note="1" command_string="GraduatedFilter"/>
