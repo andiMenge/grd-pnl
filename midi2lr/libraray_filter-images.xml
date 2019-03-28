@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+  <setting channel="1" note="1" command_string="SwToMdevelop"/>
+  <setting channel="1" note="16" command_string="Next"/>
+  <setting channel="1" note="15" command_string="Prev"/>
+  <setting channel="1" note="9" command_string="Reject"/>
+  <setting channel="1" note="10" command_string="RemoveFlag"/>
+</settings>
