@@ -16,6 +16,7 @@
   <setting channel="1" controller="5" command_string="Tint"/>
   <setting channel="1" controller="4" command_string="Clarity"/>
   <setting channel="1" controller="11" command_string="Saturation"/>
+  <setting channel="1" note="12" command_string="CropOverlay"/>
   <setting channel="1" controller="3" command_string="Contrast"/>
   <setting channel="1" controller="10" command_string="Shadows"/>
   <setting channel="1" note="10" command_string="Next"/>
