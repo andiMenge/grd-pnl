@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <settings>
+  <setting channel="1" controller="10" command_string="Blacks"/>
+  <setting channel="1" controller="9" command_string="Shadows"/>
   <setting channel="1" note="9" command_string="Prev"/>
   <setting channel="1" note="7" command_string="ShoVwdevelop_loupe"/>
   <setting channel="1" note="8" command_string="ShoVwdevelop_before"/>
@@ -19,13 +21,11 @@
   <setting channel="1" controller="11" command_string="Saturation"/>
   <setting channel="1" note="12" command_string="LRPaste"/>
   <setting channel="1" controller="3" command_string="Contrast"/>
-  <setting channel="1" controller="10" command_string="Shadows"/>
+  <setting channel="1" controller="1" command_string="Highlights"/>
   <setting channel="1" note="10" command_string="Next"/>
-  <setting channel="1" controller="1" command_string="Whites"/>
+  <setting channel="1" controller="2" command_string="Whites"/>
   <setting channel="1" note="11" command_string="LRCopy"/>
-  <setting channel="1" controller="2" command_string="Highlights"/>
   <setting channel="1" controller="16" command_string="SplitToningShadowSaturation"/>
-  <setting channel="1" controller="9" command_string="Blacks"/>
   <setting channel="1" controller="12" command_string="Temperature"/>
   <setting channel="1" controller="17" command_string="Exposure"/>
   <setting channel="1" note="1" command_string="GraduatedFilter"/>
